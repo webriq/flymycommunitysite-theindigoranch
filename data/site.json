@@ -1,9 +1,9 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Indigo Ranch",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/drjzrh756/image/upload/v1526567040/kx0os4vdczatdgf2pkla.jpg",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
@@ -13,14 +13,14 @@
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "vanwierenrick@gmail.com",
       "logo": "/img/logofly.png",
-      "linkcont": "032000333555",
-      "videoid": "255662356",
+      "linkcont": "719.331.7675",
+      "videoid": "265103763",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
       "slidertext1": "Discover the Beauty",
-      "slidertext2": "Crystal Parks",
+      "slidertext2": "Indigo Ranch",
       "poplink": "//vimeo.com/250014579"
     }
   ],
